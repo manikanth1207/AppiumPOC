@@ -1,0 +1,36 @@
+{
+  "platformName": "iOS",
+  "platformVersion": "11.2",
+  "deviceName": "iPad Simulator",
+  "app": "/Users/lantony/Documents/LsCompMani.ipa",
+  "noReset": true
+}
+
+
+{
+  "platformName": "iOS",
+  "platformVersion": "11.0.3",
+  "deviceName": "Mani iPhone",
+  "app": "/Users/lantony/Documents/test1/Starbucks.app",
+  "noReset": true,
+  "udid": "64c7b9ac82e486119ef905a65881eaf987a77840",
+  "xcodeSigningId": "iPhone Developer",
+  "xcodeOrgId": "277P9WWF47"
+}
+
+
+
+{
+  "platformName": "iOS",
+  "platformVersion": "11.0.3",
+  "deviceName": "Mani iPhone",
+  "app": "/Users/lantony/Documents/test1/Starbucks.app",
+  "noReset": true,
+  "udid": "64c7b9ac82e486119ef905a65881eaf987a77840",
+  "xcodeSigningId": "iPhone Developer",
+  "xcodeOrgId": "277P9WWF47",
+  "agentPath": "/usr/local/lib/node_modules/appium/node_modules/appium-xcuitest-driver/WebDriverAgent/WebDriverAgent.xcodeproj",
+  "bootstrapPath": "/usr/local/lib/node_modules/appium/node_modules/appium-xcuitest-driver/WebDriverAgent",
+  "bundleId": "com.starbucks.mani",
+  "automationName": "XCUITest"
+}
